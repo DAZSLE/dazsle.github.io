@@ -1,6 +1,6 @@
 # Summary
 
-* [DAZSLE](README.md)
+* [Introduction](README.md)
 * [Code Repositories](CODE.md)
 * [Public Talks](TALKS.md)
 * [Public Papers](PAPERS.md)
