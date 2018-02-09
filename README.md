@@ -2,7 +2,7 @@
 
 # Introduction
 
-This is a landing page for CMS DAZSLE analyses based at the Fermilab LHC Physics Center (LPC). DAZSLE stands for "Dijet Axial-vector/Z'/Scalar Low-mass Effort." We're interested in using jet substructure, machine learning, and data-driven background estimation techniques to fully explore the CMS data.
+This is a landing page for CMS DAZSLE analyses based at the Fermilab LHC Physics Center (LPC). DAZSLE stands for "Dijet pseudoscalar(a)/Z'/Scalar Low-mass Effort." We're interested in using jet substructure, machine learning, and data-driven background estimation techniques to fully explore the CMS data.
 
 * Our code repositories are described in [Code Repositories](CODE.md) 
 * Some public conference talks are in [Public Talks](TALKS.md) 
