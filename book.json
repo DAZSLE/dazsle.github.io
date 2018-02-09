@@ -1,0 +1,9 @@
+{
+"gitbook": "3.2.3",
+"title": "DAZSLE",
+"author": "Javier Duarte",
+"description": "Landing page for CERN CMS DAZSLE analyses",
+"structure": {
+"readme": "README.md"
+}
+}
