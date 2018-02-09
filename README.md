@@ -1,3 +1,5 @@
-# My Awesome Book
+# DAZSLE
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Landing page for CERN CMS DAZSLE analyses
+
+The code repositories are described here with links to useful READMEs contained therein 

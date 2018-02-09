@@ -1,9 +1,25 @@
 {
-"gitbook": "3.2.3",
-"title": "DAZSLE",
-"author": "Javier Duarte",
-"description": "Landing page for CERN CMS DAZSLE analyses",
-"structure": {
-"readme": "README.md"
-}
+    "gitbook": "3.2.3",
+    "title": "DAZSLE",	
+    "author": "Javier Duarte",
+    "description": "Landing page for CERN CMS DAZSLE analyses",
+    "links": {
+        "sidebar": {
+            "GitHub Organization": "https://github.com/DAZSLE"
+        }
+    },
+
+    "pdf": {
+        "pageNumbers": false,
+        "fontSize": 12,
+        "paperSize": "a4",
+        "margin": {
+            "right": 62,
+            "left": 62,
+            "top": 36,
+            "bottom": 36
+        },
+        "headerTemplate": null,
+        "footerTemplate": null
+    }
 }
